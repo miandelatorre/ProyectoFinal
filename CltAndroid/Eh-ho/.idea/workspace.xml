@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3eab137c-7940-4daf-a3bf-a7782fd4120b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hC5u8OECHbqGAQkglsM6j3h29a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="io.keepcoding.eh_ho" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Fundamentos_Android_X" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-30T21:45:37.314Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-view/Users/miguelangeldelatorre/Library/Android/sdk/sources/android-28/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-view/Users/miguelangeldelatorre/Library/Android/sdk/sources/android-28/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
+    <property name="android-custom-view/Users/miguelangeldelatorre/Library/Android/sdk/sources/android-28/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="android-custom-view/Users/miguelangeldelatorre/Library/Android/sdk/sources/android-29/android/view/View.java_SELECTED" value="View" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout/login/layout" />
+    <property name="multi-representation-preview/Users/miguelangeldelatorre/Library/Android/sdk/sources/android-28/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/miguelangeldelatorre/Library/Android/sdk/sources/android-28/android/view/ViewGroup.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/miguelangeldelatorre/Library/Android/sdk/sources/android-28/android/widget/TextView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/miguelangeldelatorre/Library/Android/sdk/sources/android-29/android/view/View.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="io.keepcoding.eh_ho.login" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout/login/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layouts/login/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layouts/login" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout/login/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout/login/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layouts/login/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layouts/login/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layouts/login" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Eh-Ho.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eab137c-7940-4daf-a3bf-a7782fd4120b" name="Default Changelist" comment="" />
+      <created>1599502453831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599502453831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="139" key="#PSD" timestamp="1604155578765">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="127" y="139" key="#PSD/0.23.1440.823@0.23.1440.823" timestamp="1604155578765" />
+    <state x="458" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604175443755">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="458" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1604175443755" />
+    <state x="483" y="144" key="#xdebugger.evaluate" timestamp="1604582320669">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="483" y="144" key="#xdebugger.evaluate/0.23.1440.822@0.23.1440.822" timestamp="1604582320669" />
+    <state x="463" y="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605091462387">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="463" y="275" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.821@0.23.1440.821" timestamp="1604693607362" />
+    <state x="463" y="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.822@0.23.1440.822" timestamp="1604588738600" />
+    <state x="463" y="276" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.823@0.23.1440.823" timestamp="1605091462387" />
+    <state x="446" y="203" key="AndroidCreateResourceDirectoryDialog" timestamp="1604175937388">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="446" y="203" key="AndroidCreateResourceDirectoryDialog/0.23.1440.823@0.23.1440.823" timestamp="1604175937388" />
+    <state x="487" y="189" key="AndroidCreateResourceFileDialog" timestamp="1599991104598">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="410" y="186" key="AndroidCreateResourceFileDialog/0.23.1440.821@0.23.1440.821" timestamp="1599989827449" />
+    <state x="487" y="189" key="AndroidCreateResourceFileDialog/0.23.1440.822@0.23.1440.822" timestamp="1599991104598" />
+    <state x="371" y="240" key="AndroidCreateResourceFileDialog/0.23.1440.823@0.23.1440.823" timestamp="1599920530788" />
+    <state x="575" y="279" key="AndroidCreateXmlResourceDialog" timestamp="1605388416688">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="575" y="278" key="AndroidCreateXmlResourceDialog/0.23.1440.821@0.23.1440.821" timestamp="1599990816430" />
+    <state x="575" y="279" key="AndroidCreateXmlResourceDialog/0.23.1440.822@0.23.1440.822" timestamp="1600010679646" />
+    <state x="575" y="279" key="AndroidCreateXmlResourceDialog/0.23.1440.823@0.23.1440.823" timestamp="1605388416688" />
+    <state x="576" y="206" key="AndroidProcessChooserDialog" timestamp="1600005690281">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="576" y="206" key="AndroidProcessChooserDialog/0.23.1440.821@0.23.1440.821" timestamp="1599830573180" />
+    <state x="576" y="206" key="AndroidProcessChooserDialog/0.23.1440.823@0.23.1440.823" timestamp="1600005690281" />
+    <state width="1139" height="656" key="DebuggerActiveHint" timestamp="1604580776954">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1139" height="656" key="DebuggerActiveHint/0.23.1440.822@0.23.1440.822" timestamp="1604580776954" />
+    <state width="1376" height="287" key="GridCell.Tab.0.bottom" timestamp="1605091519811">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1055" height="84" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1604693165581" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1604588642726" />
+    <state width="1376" height="287" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1605091519811" />
+    <state width="1376" height="287" key="GridCell.Tab.0.center" timestamp="1605091519810">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1055" height="84" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1604693165581" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1604588642725" />
+    <state width="1376" height="287" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1605091519810" />
+    <state width="1376" height="287" key="GridCell.Tab.0.left" timestamp="1605091519809">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1055" height="84" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1604693165580" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1604588642725" />
+    <state width="1376" height="287" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1605091519809" />
+    <state width="1376" height="287" key="GridCell.Tab.0.right" timestamp="1605091519810">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1055" height="84" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1604693165581" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1604588642726" />
+    <state width="1376" height="287" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1605091519810" />
+    <state width="1055" height="84" key="GridCell.Tab.1.bottom" timestamp="1604693165582">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1055" height="84" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1604693165582" />
+    <state width="1398" height="216" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1604588642727" />
+    <state width="1398" height="216" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1604589762501" />
+    <state width="1055" height="84" key="GridCell.Tab.1.center" timestamp="1604693165582">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1055" height="84" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1604693165582" />
+    <state width="1398" height="216" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1604588642726" />
+    <state width="1398" height="216" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1604589762500" />
+    <state width="1055" height="84" key="GridCell.Tab.1.left" timestamp="1604693165582">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1055" height="84" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1604693165582" />
+    <state width="1398" height="216" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1604588642726" />
+    <state width="1398" height="216" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1604589762499" />
+    <state width="1055" height="84" key="GridCell.Tab.1.right" timestamp="1604693165582">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1055" height="84" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1604693165582" />
+    <state width="1398" height="216" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1604588642727" />
+    <state width="1398" height="216" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1604589762500" />
+    <state x="308" y="183" key="IDE.errors.dialog" timestamp="1604141914146">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="308" y="183" key="IDE.errors.dialog/0.23.1440.821@0.23.1440.821" timestamp="1604141914146" />
+    <state x="390" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1599904695869">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="390" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1599904695869" />
+    <state x="482" y="70" key="refactoring.ChangeSignatureDialog" timestamp="1600002067443">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="482" y="70" key="refactoring.ChangeSignatureDialog/0.23.1440.823@0.23.1440.823" timestamp="1600002067443" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/login/LoginActivity.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/login/SignInFragment.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/login/SignUpFragment.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/data/PostsRepo.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/data/PostsRepo.kt</url>
+          <line>51</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/data/UserRepo.kt</url>
+          <line>70</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/data/TopicsRepo.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/data/TopicsRepo.kt</url>
+          <line>49</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/posts/CreatePostFragment.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/posts/PostsActivity.kt</url>
+          <line>32</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/topics/CreateTopicFragment.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/topics/TopicsActivity.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/data/UserRepo.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/login/LoginActivity.kt</url>
+          <line>101</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/login/SignInFragment.kt</url>
+          <line>46</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/login/RecoverPasswordFragment.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
