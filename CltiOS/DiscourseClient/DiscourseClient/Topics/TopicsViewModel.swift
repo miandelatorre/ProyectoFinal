@@ -79,6 +79,10 @@ class TopicsViewModel {
         fetchTopicsAndReloadUI()
     }
 
+    func newPostWasCreated() {
+        fetchTopicsAndReloadUI()
+    }
+
     func topicWasDeleted() {
         fetchTopicsAndReloadUI()
     }

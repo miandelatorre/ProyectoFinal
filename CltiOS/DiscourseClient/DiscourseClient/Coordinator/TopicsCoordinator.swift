@@ -98,6 +98,7 @@ extension TopicsCoordinator: TopicDetailCoordinatorDelegate {
 
             addPostCoordinator.finish()
             self.removeChildCoordinator(addPostCoordinator)
+            self.topicsViewModel?.newPostWasCreated()
         }
         
         addPostViewModel.coordinatorDelegate = addPostCoordinator
