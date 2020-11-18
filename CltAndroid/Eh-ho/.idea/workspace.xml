@@ -13,15 +13,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3eab137c-7940-4daf-a3bf-a7782fd4120b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/io/keepcoding/eh_ho/CreatePostModelTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/topics/CreateTopicFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/keepcoding/eh_ho/topics/CreateTopicFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CltiOS/DiscourseClient/DiscourseClient.xcodeproj/project.xcworkspace/xcuserdata/miguelangeldelatorre.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../CltiOS/DiscourseClient/DiscourseClient.xcodeproj/project.xcworkspace/xcuserdata/miguelangeldelatorre.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Fundamentos_Android_X]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -97,7 +103,7 @@
       <recent name="$PROJECT_DIR$/app/src/main/res/layouts/login" />
     </key>
   </component>
-  <component name="RunManager" selected="Android JUnit.CreatePostModelTest">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="CreatePostModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="Eh-Ho.app" />
       <extension name="coverage">
@@ -241,28 +247,28 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1139" height="656" key="DebuggerActiveHint/0.23.1440.822@0.23.1440.822" timestamp="1604580776954" />
-    <state width="1376" height="287" key="GridCell.Tab.0.bottom" timestamp="1605091519811">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1376" height="67" key="GridCell.Tab.0.bottom" timestamp="1605646161460">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1055" height="84" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1604693165581" />
+    <state width="1376" height="67" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1605646161460" />
     <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1604588642726" />
     <state width="1376" height="287" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1605091519811" />
-    <state width="1376" height="287" key="GridCell.Tab.0.center" timestamp="1605091519810">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1376" height="67" key="GridCell.Tab.0.center" timestamp="1605646161459">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1055" height="84" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1604693165581" />
+    <state width="1376" height="67" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1605646161459" />
     <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1604588642725" />
     <state width="1376" height="287" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1605091519810" />
-    <state width="1376" height="287" key="GridCell.Tab.0.left" timestamp="1605091519809">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1376" height="67" key="GridCell.Tab.0.left" timestamp="1605646161459">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1055" height="84" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1604693165580" />
+    <state width="1376" height="67" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1605646161459" />
     <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1604588642725" />
     <state width="1376" height="287" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1605091519809" />
-    <state width="1376" height="287" key="GridCell.Tab.0.right" timestamp="1605091519810">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1376" height="67" key="GridCell.Tab.0.right" timestamp="1605646161460">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1055" height="84" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1604693165581" />
+    <state width="1376" height="67" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1605646161460" />
     <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1604588642726" />
     <state width="1376" height="287" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1605091519810" />
     <state width="1055" height="84" key="GridCell.Tab.1.bottom" timestamp="1604693165582">

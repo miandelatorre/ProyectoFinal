@@ -104,6 +104,7 @@ class CreateTopicFragment : Fragment() {
                 model,
                 {
                     //loadingDialogFragment.dismiss()
+                    Thread.sleep(500)
                     enableLoadingDialog(false)
                     interactionListener?.onTopicCreated()
                 },
